@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" overflow="visible">
+  <text x="0" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="bold" fill="#1C3A5E">InterSessões</text>
+  <circle cx="284" cy="10" r="5" fill="#4E7CA6"/>
+  <path d="M6 52 Q30 44 54 52 T102 52 T150 52" stroke="#A8C4DA" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>
