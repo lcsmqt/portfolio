@@ -13,6 +13,18 @@ Estudante de Análise e Desenvolvimento de Sistemas em transição para TI. Este
 
 ## Destaques
 
+### Caslu SysCare — diagnóstico e suporte de TI
+
+Aplicativo desktop para Windows que concentra o que um técnico precisa no atendimento: saúde de hardware e discos, processos desnecessários, inicialização, rede, segurança e relatório para o cliente. Nada é alterado sem confirmação.
+
+| | |
+|---|---|
+| **Repositório** | [caslu-syscare](https://github.com/lcsmqt/caslu-syscare) |
+| **Stack** | Python, PySide6, psutil |
+| **Status** | Diagnóstico, manutenção local e relatórios HTML/JSON |
+
+---
+
 ### BYTEQUEST — RPG educacional de Python
 
 Jogo 8-bit no navegador que ensina Python do zero através de aventura, runas de código e batalhas contra bugs.
@@ -31,6 +43,7 @@ Jogo 8-bit no navegador que ensina Python do zero através de aventura, runas de
 
 | Projeto | Área | Stack | Repositório |
 |---|---|---|---|
+| Caslu SysCare | Desktop / Suporte de TI | Python, PySide6, psutil | [caslu-syscare](https://github.com/lcsmqt/caslu-syscare) |
 | Helpdesk Ticket API | Backend / API | FastAPI, PostgreSQL, JWT, RBAC | [helpdesk-ticket-api](https://github.com/lcsmqt/helpdesk-ticket-api) |
 | IT Operations SQL Lab | Banco de Dados | PostgreSQL, views, triggers, CTEs | [it-operations-sql-lab](https://github.com/lcsmqt/it-operations-sql-lab) |
 | Network Diagnostic Toolkit | Redes | Python, sockets, DNS, CIDR | [network-diagnostic-toolkit](https://github.com/lcsmqt/network-diagnostic-toolkit) |
@@ -57,7 +70,7 @@ Jogo 8-bit no navegador que ensina Python do zero através de aventura, runas de
 
 ## Tecnologias
 
-`Python` · `TypeScript` · `FastAPI` · `Next.js` · `Astro` · `PostgreSQL` · `Phaser` · `Pyodide` · `Docker` · `Linux` · `Git`
+`Python` · `PySide6` · `TypeScript` · `FastAPI` · `Next.js` · `Astro` · `PostgreSQL` · `Phaser` · `Pyodide` · `Docker` · `Linux` · `Windows` · `Git`
 
 ---
 
