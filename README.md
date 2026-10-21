@@ -59,6 +59,7 @@ Jogo 8-bit no navegador que ensina Python do zero através de aventura, runas de
 | Projeto | Tipo | Pasta |
 |---|---|---|
 | Caslu Soluções | Site comercial + Command Center | [client-projects/caslu-solucoes](client-projects/caslu-solucoes/) |
+| Gringa Chloe | Agendamento online de aulas com pagamento via Pix | [client-projects/gringa-chloe](client-projects/gringa-chloe/) |
 | FiscoVira | Plataforma tax-tech | [client-projects/fiscovira](client-projects/fiscovira/) |
 | Intersessões | Ecossistema digital de livro | [client-projects/intersessoes](client-projects/intersessoes/) |
 | JCM & Rio Seguros | Plataforma de corretora | [client-projects/jcmrio](client-projects/jcmrio/) |
